@@ -1,0 +1,22 @@
+{
+  "name": "rtsupport",
+  "version": "1.0.0",
+  "description": "Real Time Support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared Mackey <jared@mackey.tech>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^6.2.4",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.2",
+    "fecha": "^2.1.0",
+    "jquery": "^3.0.0",
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0"
+  }
+}

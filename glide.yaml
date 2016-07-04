@@ -1,0 +1,5 @@
+package: rtsupport
+import:
+- package: gopkg.in/dancannon/gorethink.v1
+- package: github.com/gorilla/websocket
+- package: github.com/mitchellh/mapstructure

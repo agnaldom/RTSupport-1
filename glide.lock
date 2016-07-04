@@ -1,0 +1,10 @@
+hash: fca1d14aaa39828f1dd0355417c301495150022cbbabdae9aa7bb5fa2084701c
+updated: 2016-07-03T12:02:24.175546222-06:00
+imports:
+- name: github.com/gorilla/websocket
+  version: 54f9decdbfb3fe254c5df3d5aa234480989f4af0
+- name: github.com/mitchellh/mapstructure
+  version: d2dd0262208475919e1a362f675cfc0e7c10e905
+- name: gopkg.in/dancannon/gorethink.v1
+  version: edc7a6a68e2d8015f5ffe1b2560eed989f8a45be
+devImports: []
